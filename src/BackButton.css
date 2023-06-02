@@ -1,0 +1,17 @@
+.backbutton {
+    min-height: 3vh; /* Set a minimum height for the container to cover the viewport */
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  button {
+    border-radius: 12px;
+    font-size: 20px;
+    background-color: blueviolet;
+    margin: auto;
+    display: block;
+    height: 50px;
+    width: 300px;
+  }

@@ -1,0 +1,40 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: linear-gradient(89deg, #0cf334 0%, #80aa55 100%);
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+
+@font-face {
+  font-family: TreeLike;
+  src: url('./fonts/TreeLike.ttf') format('truetype'); }
+
+@font-face {
+  font-family: Flora;
+  src: url('./fonts/Flora.ttf') format('truetype'); }
+
+@font-face {
+  font-family: AlphaFlowers;
+  src: url('./fonts/AlphaFlowers.ttf') format('truetype'); }
+
+@font-face {
+  font-family: JFJunRoc;
+  src: url('./fonts/JFJunRoc.ttf') format('truetype'); }
+
+@font-face {
+  font-family: JFWilwod;
+  src: url('./fonts/JFWilwod.ttf') format('truetype'); }
+
+  
+  /* h1 { font-family: JFWilwod;} */
+  
+  /* p {font-family: AlphaFlowers;} */
