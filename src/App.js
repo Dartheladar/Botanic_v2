@@ -38,6 +38,14 @@ import Gozdziki from './plants/Gozdziki';
 import Petunia from './plants/Petunia';
 import Aksamitka from './plants/Aksamitka';
 import Begonia from './plants/Begonia';
+import Morgana from './plants/Morgana';
+import Azalia from './plants/azalia';
+import Barwinek from './plants/Barwinek';
+import Monstera_minima from './plants/monstera_minima';
+import Geranium from './plants/Geranium';
+import Saintpaulia from './plants/Saintpaulia_ionantha';
+
+
 import Scroll from './Scroll';
 
 
@@ -62,6 +70,7 @@ class App extends React.Component {
           <Bananowiec />
           <Paprotka />
           <Monstera />
+          <Monstera_minima />
           <Bluszcz />
           <Fikus />
           <Sansewieria />
@@ -81,6 +90,9 @@ class App extends React.Component {
           <Hoja />
           <Rose_mini />
           <Narcyz />
+          <Morgana/>
+          <Geranium/>
+          <Saintpaulia/>
 
           <Pomidor_koktajlowy />
           <Szczypiorek />
@@ -91,6 +103,8 @@ class App extends React.Component {
           <Petunia />
           <Aksamitka />
           <Begonia />
+          <Azalia />
+          <Barwinek />
 
           
           </Scroll>

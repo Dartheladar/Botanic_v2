@@ -1,0 +1,41 @@
+import React, {Component} from 'react';
+
+class Azalia extends Component   {
+    
+        render () {
+            return (
+                <div className='f4 tl'>
+                 <h2 id="azalia" className='f2 tc'>Azalia</h2>
+                    <p>Azalia to bliska krewna rododendronu, pochodząca z Chin i Japonii, ciesząca się niezwykłą intensywnością kolorowego kwiecia. Od swego kuzyna odróżnia się jednak opadającymi w większości przypadków liśćmi.</p>
+                    <p>Mimo orientalnego pochodzenia roślina swoją nazwę zawdzięcza starożytnej grece, w której „azaleos” paradoksalnie oznacza suchość. I choć roślina bardzo lubi wilgoć, antyczni dobrze wiedzieli, że nie znosi stać w wodzie i potrzebuje dobrze przepuszczalnego podłoża. Wśród polskich miłośników gatunku azalia najpopularniejsza jest uprawa doniczkowa, prosta w pielęgnacji, ale wymagająca zimowania. Chętnie sadzimy też krzewy ogrodowe, przy czym w obu tych formach należy się spodziewać sporej dozy kapryśności i wygórowanych wymagań..</p>
+                    <h3>Azalie – wymagania glebowe</h3>
+                    <p>Azalie mają stosunkowo płytki system korzeniowy i dlatego potrzebują naprawdę dobrze przygotowanego podłoża. Optymalna gleba powinna być żyzna, próchnicza, dobrze przepuszczająca wodę i kwaśna – pożądany odczyn waha się w granicach 4.5 – 6.0 pH. Zbyt zasadowa ziemia wywołuje u roślin chlorozę. Aby uzyskać pożądaną kwaśność zwykle wystarczy zmieszać dobrą orną ziemię z torfem w proporcji 1:1. Niektórzy sugerują również domieszanie jednej części piasku. Jeśli na rabacie woda ma tendencję do zalegania, poleca się przygotować dla azalii podwyższone stanowisko z dobrym drenażem. </p>
+                    <p>Ponadto rośliny do szczęścia potrzebują odpowiedniej pielęgnacji i dawki cienia, więc idealnie jest sadzić je pod drzewami, przez której jedynie częściowo przenikają promienie słoneczne. Miejsce nie powinno być jednak zbyt ciemne, bo może to oznaczać uboższe kwitnienie. Istnieją też wyjątkowe odmiany azalii, które preferują nieco więcej intensywniejszego słońca, nigdy wszak jednak nie rosną dobrze na stanowisku suchym. </p>
+                    <h3>Sadzenie i uprawa azalii</h3>
+                    <p>Optymalna pora na sadzenie azalii to późna wiosna i wczesna jesień, a więc miesiące wolne od przymrozków, ale nie przesadnie gorące. Uprawę sadzonek z kontenerów można jednak zaplanować także latem. W przygotowanym wcześniej podłożu należy wykopać jamę, która będzie dwa razy głębsza i dwa razy szersza niż bryła korzeniowa danej rośliny. Sam krzew kilka godzin przed sadzeniem należy ostrożnie wyjąć z donicy i zanurzyć w wiadrze z wodą, idealnie deszczową .</p>
+                    <p>Namoczoną roślinę należy umieścić w jamie i przysypać połową ziemi, a następnie solidnie podlać. Na wierzch dosypujemy resztę gleby, a wokół posadzonego krzewu aranżujemy warstwę mulczującą, z liści, kory lub igliwia. </p>
+                    <h3>Pielęgnacja azalii</h3>
+                    <p>Co do zasady, w przypadku rośliny, jaką jest azalia ogrodowa, jej pielęgnacja nie obejmuje przycinania, ale doświadczenia wskazują, że kto usunie wczesną wiosną część pędów i skróci pozostałe, będzie cieszyć się bujniejszym kwieciem i ładniejszą strukturą krzewu. Polecanym zabiegiem jest również usuwanie przekwitłych kwiatów, co zapobiega osłabianiu pędów. Bardzo stare krzewy można również radykalnie odmłodzić wczesnowiosennym cięciem wszystkich pędów do wysokości 30 cm nad ziemią. Roślina odwdzięczy się intensywnym wzrostem i pojawieniem się wielu młodych pędów. Kiedy przesadzać azalie? Najlepszy czas to wiosna i jesień – oczywiście należy pamiętać o zimowaniu. </p>
+                    <h3>Podlewanie azalii</h3>
+                    <p>Azalie w uprawach nie znoszą suszy i wymagają naprawdę sumiennego podlewania i optymalnej pielęgnacji. Zarówno domowe odmiany, jak i ogrodowe, trzeba jednak traktować z taktem. Regularne nawadnianie to konieczność, przy czym w czasie upałów poleca się także zraszanie korony krzewu. W utrzymaniu odpowiedniego poziomu wilgoci pomaga mulcz rozłożony wokół rośliny, a dodatkowo można go wzmocnić, sadząc dokoła niskie krzewinki czy mchy. Kwiaty doniczkowe najlepiej nawadniać poprzez włożenie doniczki do podstawki pełnej wody i pozostawienia na kilkanaście minut – roślina „napije się”, ile będzie potrzebować, ale nie będzie stała w wodzie.</p>
+                    <h3>Nawożenie</h3>
+                    <p>Ogrodowe odmiany upraw azalii należy nawozić dwa razy w roku – wiosną, idealnie w kwietniu, oraz latem, na przełomie czerwca i lipca. Poleca się stosowanie specjalnego nawozu do różaneczników lub roślin wrzosowatych, ale raczej w mniejszych dawkach. Bezpieczne i dobroczynne jest również nawożenie krzewów organicznym nawozem, typu kompost. Rośliny domowe można nawozić nawet dwa razy w miesiącu, stosując niskie dawki płynnego nawozu dla azalii .</p>
+                    <h3>Rozmnażanie azalii</h3>
+                    <p>Krzewy ogrodowe, podobnie jak w przypadku rododendronów, można rozmnażać odkładami, a więc poprzez przygięcie pędu do ziemi i zasypanie go ogrodniczym substratem. Proces jest jednak długotrwały i zanim pęd się ukorzeni mogą minąć nawet dwa lata! Nieco bardziej skomplikowana metoda, którą można stosować zarówno do krzewów domowych, jak i ogrodowych, to rozmnażanie azalii za pomocą sadzonek zielnych pozyskanych z młodych, niekwitnących pędów. Odcięte, ok. 10-centymetrowe części pędów, z dwoma lub trzema liśćmi, sadzimy w wilgotnym piasku zmieszanym z torfem, gdzie powinny ukorzenić się w przeciągu 4-8 tygodni. Kuwetę z sadzonkami należy przechowywać przez cały czas w ciepłym, jasnym miejscu .</p>
+                    <h3>Ochrona azalii</h3>
+                    <p>Odporność rośliny w uprawach zależy od jej gatunku. Krzewy zimozielone i pół-opadające wymagają bezwzględnie ochrony na czas zimowania, idealnie łączącej obsypanie korzeni grubszą warstwą mulczu lub igliwia i owinięciem nadziemnej części włókniną ogrodniczą. Gatunki, które tracą liście na zimę, a więc większość obecnych na rynku, są bardziej wytrzymałe i mogą obyć się bez osłony nadziemnej, choć system korzeniowy i tak lepiej jest porządnie przysypać.</p>
+                    <p>W przypadku hodowli zewnętrznej azalia musi przejść zimowanie w cieplejszym miejscu np. w garażu lub piwnicy, gdzie temperatura nie przekracza 6-8 stopni C, a powietrze jest stosunkowo suche.</p>
+                    <h3>Zagrożenia dla azalii</h3>
+                    <p>Chorą roślinę należy jak najszybciej usunąć i spalić, aby nie stwarzać zagrożenia dla innych krzewów w okolicy.</p>
+                    <p>Azalie cierpią także z powody rdzy (czerwone plamy na spodzie liści), mączniaka prawdziwego (biały nalot) oraz szarej pleśni (brązowe plamy na liściach i kwiatach) – na szczęście te problemy można rozwiązać odpowiednim opryskiem specjalistycznymi preparatami. Ponadto na krzewach pojawiają się także mszyce oraz opuchlaki truskawkowce – małe chrząszcze wygryzające dziury, nie tylko w liściach, ale też korzeniach. Skutecznym lekarstwem na szkodniki są preparaty w sprayu o działaniu owadobójczym i właściwa pielęgnacja. </p>
+                    <h3>Azalie w domu i ogrodzie</h3>
+                    <p>Azalie to rośliny typowo ozdobne nadające się zarówno na solitery na trawniku czy zagonie, jak i towarzystwo dla pokrewnych krzewów typu rododendrony, wrzośce i wrzosy, a także krzewów i drzew iglastych – wszystkie dzielą bowiem zamiłowanie do kwaśnego podłoża. Ale mniejsze odmiany azalii doskonale wyglądają również na skałkach oraz niższych zagonach, jako towarzystwo dla paproci czy piwonii. </p>
+                    <p>Warto zaplanować uprawę azalii także do domu, zwłaszcza, że gatunki hodowane we wnętrzach (najczęściej R.simsii, R. obtusum i małe azalie japońskie, R. japonicum) zakwitają często już w grudniu i zdobią parapety aż do początków lata. Najnowsze trendy sugerują wręcz, aby azalie wraz z gwiazdami betlejemskimi oraz hiacyntami doniczkowymi wykorzystywać do bożnonarodzeniowego wystroju wnętrz. </p>
+
+                 <hr></hr>
+                </div>
+            );
+        }
+    }
+    
+    export default Azalia;

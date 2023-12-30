@@ -6,6 +6,7 @@ import bananowiec from './IMG/musa_don.png'
 import paprotka from './IMG/fern.png'
 import monstera_deliciosa from './IMG/monstera_deliciosa.png'
 import monstera_monkey_musk from './IMG/monstera_monkey_musk.png'
+import monstera_minima from './IMG/monstera_minima.png'
 import bluszcz from './IMG/bluszcz.png'
 import fikus from './IMG/fikus.png'
 import sansevieria from './IMG/sansevieria.png'
@@ -27,6 +28,10 @@ import Ornithogalum_dubium_sniadek from './IMG/Ornithogalum_dubium_sniadek.png'
 import hoya from './IMG/hoya.png'
 import rose from './IMG/rose.png'
 import narcyz from './IMG/narcyz.png'
+import morgana from './IMG/morgana.png'
+import geranium from './IMG/Pelargonium_graveolens.png'
+import saintpaulia from './IMG/saintpaulia.png'
+
 
 
 
@@ -38,6 +43,7 @@ const Mieszkanie = () => {
             <a href="#paprotka"> <img src={paprotka} alt="Paprotka" /></a>
             <a href="#monstera"><img src={monstera_deliciosa} alt="Monstera Deliciosa" /></a>
             <a href="#monstera"><img src={monstera_monkey_musk} alt="Monstera Monkey Mask" /></a>
+            <a href="#monstera_minima"><img src={monstera_minima} alt="Monstera Minima" /></a>
             <a href="#bluszcz"><img src={bluszcz} alt="Bluszcz" /></a>
             <a href="#fikus"><img src={fikus} alt="Fikus" /></a>
             <a href="#sansevieria"><img src={sansevieria} alt="Wężownica" /></a>
@@ -59,6 +65,9 @@ const Mieszkanie = () => {
             <a href="#hoja"><img src={hoya} alt="Hoja" /></a>
             <a href="#rose_mini"><img src={rose} alt="Róża miniaturka" /></a>
             <a href="#narcyz"><img src={narcyz} alt="Narcyz" /></a>
+            <a href="#morgana"><img src={morgana} alt="Morgana" /></a>
+            <a href="#geranium"><img src={geranium} alt="Geranium" /></a>
+            <a href="#saintpaulia"><img src={saintpaulia} alt="Saintpaulia" /></a>
         </div>
         );
   };
