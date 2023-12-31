@@ -5,6 +5,7 @@ import ParticlesBg from 'particles-bg';
 import BackButton from './BackButton';
 import Mieszkanie from './Mieszkanie';
 import Balkon from './Balkon';
+import Szkodniki from './Szkodniki';
 
 import Dracena from './plants/Dracena';
 import Bananowiec from './plants/Bananowiec';
@@ -51,8 +52,14 @@ import Maranta from './plants/Maranta'
 import Parthenocissus from './plants/Parthenocissus';
 import Filodendron_pnacy from './plants/Philodendron_scandens';
 import Scindapsus_pictus from './plants/Scindapsus';
+
 import Cat from './Cat'
 import cat from './IMG/cat.png'
+
+import Ziemiorki from './insects/Ziemiorki';
+import Mszyce from './insects/Mszyce';
+import Welnowce from './insects/Welnowce';
+import Przedziorki from './insects/Przedziorki';
 
 import Scroll from './Scroll';
 
@@ -73,6 +80,9 @@ class App extends React.Component {
             <Mieszkanie />
           <h1 className='f2 tc'>Balkon</h1>
             <Balkon />
+            <h1 className='f2 tc'>Szkodniki</h1>
+            <Szkodniki />
+
           <h1 className='f2 tc'>Rośliny <strong>trujące</strong> dla kotów</h1>
             <div className="cat">
                 <a href="#cat" className="cat">
@@ -126,6 +136,11 @@ class App extends React.Component {
           <Azalia />
           <Barwinek />
           <Parthenocissus/>
+
+          <Mszyce/>
+          <Przedziorki/>
+          <Welnowce/>
+          <Ziemiorki/>
 
           <Cat/>
 
