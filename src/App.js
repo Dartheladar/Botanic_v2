@@ -39,12 +39,20 @@ import Petunia from './plants/Petunia';
 import Aksamitka from './plants/Aksamitka';
 import Begonia from './plants/Begonia';
 import Morgana from './plants/Morgana';
-import Azalia from './plants/azalia';
+import Azalia from './plants/Azalia';
 import Barwinek from './plants/Barwinek';
-import Monstera_minima from './plants/monstera_minima';
+import Monstera_minima from './plants/Monstera_minima';
 import Geranium from './plants/Geranium';
 import Saintpaulia from './plants/Saintpaulia_ionantha';
-
+import Aloes from './plants/Aloes';
+import Chlorophytum from'./plants/chlorophytum';
+import Epipremnum from'./plants/Epipremnum';
+import Maranta from './plants/Maranta'
+import Parthenocissus from './plants/Parthenocissus';
+import Filodendron_pnacy from './plants/Philodendron_scandens';
+import Scindapsus_pictus from './plants/Scindapsus';
+import Cat from './Cat'
+import cat from './IMG/cat.png'
 
 import Scroll from './Scroll';
 
@@ -65,6 +73,12 @@ class App extends React.Component {
             <Mieszkanie />
           <h1 className='f2 tc'>Balkon</h1>
             <Balkon />
+          <h1 className='f2 tc'>Rośliny <strong>trujące</strong> dla kotów</h1>
+            <div className="cat">
+                <a href="#cat" className="cat">
+                    <center><img src={cat} alt="poison" className="center-image" /></center>
+                </a>
+            </div>
 
           <Dracena />
           <Bananowiec />
@@ -82,6 +96,7 @@ class App extends React.Component {
           <Wilczomlecz />
           <Fittonia />
           <Filodendron_birkin />
+          <Filodendron_pnacy/>
           <Aglaonema />
           <Begonia_krolewska />
           <Guzmania />
@@ -93,6 +108,11 @@ class App extends React.Component {
           <Morgana/>
           <Geranium/>
           <Saintpaulia/>
+          <Aloes/>
+          <Chlorophytum/>
+          <Epipremnum/>
+          <Maranta/>
+          <Scindapsus_pictus/>
 
           <Pomidor_koktajlowy />
           <Szczypiorek />
@@ -105,6 +125,9 @@ class App extends React.Component {
           <Begonia />
           <Azalia />
           <Barwinek />
+          <Parthenocissus/>
+
+          <Cat/>
 
           
           </Scroll>

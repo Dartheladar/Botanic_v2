@@ -13,7 +13,7 @@ import sansevieria from './IMG/sansevieria.png'
 import Suculent_Crassula_Perforata from './IMG/Suculent-Crassula_Perforata.png'
 import ornamental_pepper from './IMG/ornamental_pepper.png'
 import Opuntia_subulata_Opuncja from './IMG/Opuntia_subulata_Opuncja.png'
-import Schlumbergera from './IMG/Schlumbergera .png'
+import Schlumbergera from './IMG/Schlumbergera.png'
 import cactus01 from './IMG/cactus01.png'
 import cactus02 from './IMG/cactus02.png'
 import Cactaceae_Eastern from './IMG/Cactaceae_Eastern.png'
@@ -31,6 +31,12 @@ import narcyz from './IMG/narcyz.png'
 import morgana from './IMG/morgana.png'
 import geranium from './IMG/Pelargonium_graveolens.png'
 import saintpaulia from './IMG/saintpaulia.png'
+import aloes from './IMG/aloes.png'
+import chlorophytum from './IMG/chlorophytum_comosum.png'
+import epipremnum from'./IMG/epipremnum.png'
+import maranta from './IMG/maranta.png'
+import philodendron_scandens from './IMG/philodendron_scandens.png'
+import scindapsus_pictus from './IMG/scindapsus_pictus.png'
 
 
 
@@ -58,6 +64,7 @@ const Mieszkanie = () => {
             <a href="#fittonia"><img src={fittonia} alt="Fittonia" /></a>
             <a href="#aglaonema"><img src={aglaonema} alt="Aglaonema" /></a>
             <a href="#filodendron_birkin"><img src={philodendron_white_measure} alt="Filodendron Birkin" /></a>
+            <a href="#philodendron_scandens"><img src={philodendron_scandens} alt="Philodendron Scandens" /></a>
             <a href="#begonia_krolewska"><img src={begonia_leaf_beleaf_inca} alt="Begonia Królewska" /></a>
             <a href="#guzmania"><img src={Guzmania_lingulata} alt="Guzmania" /></a>
             <a href="#skrzydlokwiat"><img src={spathiphyllum_sweet_chico} alt="Skrzdłokwiat" /></a>
@@ -68,6 +75,11 @@ const Mieszkanie = () => {
             <a href="#morgana"><img src={morgana} alt="Morgana" /></a>
             <a href="#geranium"><img src={geranium} alt="Geranium" /></a>
             <a href="#saintpaulia"><img src={saintpaulia} alt="Saintpaulia" /></a>
+            <a href="#aloes"><img src={aloes} alt="Aloes" /></a>
+            <a href="#chlorophytum"><img src={chlorophytum} alt="Zielistka" /></a>
+            <a href="#epipremnum"><img src={epipremnum} alt="Epipremnum" /></a>
+            <a href="#maranta"><img src={maranta} alt="Maranta" /></a>
+            <a href="#scindapsus_pictus"><img src={scindapsus_pictus} alt="Scindapsus_pictus" /></a>
         </div>
         );
   };

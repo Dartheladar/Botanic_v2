@@ -14,6 +14,7 @@ import aksamitki from './IMG/merigold.png'
 import begonia from './IMG/begonia_knole.png'
 import azalia from './IMG/azalia.png'
 import barwinek from './IMG/barwinek.png';
+import parthenocissus from './IMG/parthenocissus_quinquefolia.png';
 
 
 
@@ -34,6 +35,7 @@ const Balkon = () => {
         <a href="#begonia"><img src={begonia} alt="Begonia" /></a>
         <a href="#azalia"><img src={azalia} alt="Azalia" /></a>
         <a href="#barwinek"><img src={barwinek} alt="Barwinek" /></a>
+        <a href="#parthenocissus"><img src={parthenocissus} alt="Winobluszcz" /></a>
         
       </div>
         

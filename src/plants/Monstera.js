@@ -31,8 +31,10 @@ class Monstera extends Component   {
 
                     <h3>Moje odmiany</h3>
                     <ul>
-                    <li>Monstera Monkey Musk</li>
+                    <li>Monstera Yellow Musk</li>
                     <li>Monstera Deliciosa</li>
+                    <li>Monstera monkey leaf</li>
+                    <li>Monstera 'Minima' - Rhaphidophora tetrasperma </li>
                     </ul>
                     <hr></hr>
                 </div>
