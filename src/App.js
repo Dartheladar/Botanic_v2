@@ -3,10 +3,9 @@ import './App.css';
 import React, { Fragment } from 'react';
 import ParticlesBg from 'particles-bg';
 import BackButton from './BackButton';
-import Mieszkanie from './Mieszkanie';
-import Balkon from './Balkon';
-import Szkodniki from './Szkodniki';
+import Scroll from './Scroll';
 
+import Mieszkanie from './Mieszkanie';
 import Dracena from './plants/Dracena';
 import Bananowiec from './plants/Bananowiec';
 import Paprotka from './plants/Paprotka';
@@ -30,6 +29,26 @@ import Sniadek from './plants/Sniadek';
 import Hoja from './plants/Hoja';
 import Rose_mini from './plants/Rose_mini';
 import Narcyz from './plants/Narcyz';
+import Morgana from './plants/Morgana';
+import Monstera_minima from './plants/Monstera_minima';
+import Geranium from './plants/Geranium';
+import Saintpaulia from './plants/Saintpaulia_ionantha';
+import Aloes from './plants/Aloes';
+import Chlorophytum from'./plants/chlorophytum';
+import Epipremnum from'./plants/Epipremnum';
+import Maranta from './plants/Maranta'
+import Filodendron_pnacy from './plants/Philodendron_scandens';
+import Scindapsus_pictus from './plants/Scindapsus';
+// jeszcze nie mam
+import Alocatia from './plants/Alocatia'
+import Amarylis from'./plants/Amarylis'
+import Calathea from './plants/Calathea'
+import Ficus_elastica from './plants/Ficus_elastica'
+import Chamedora from './plants/Chamedora'
+import Areka from './plants/Palma_Areka'
+import Stephanotis from './plants/Stephanotis'
+
+import Balkon from './Balkon';
 import Pomidor_koktajlowy from './plants/Pomidor_koktajlowy';
 import Szczypiorek from './plants/Szczypiorek';
 import Mieta from './plants/Mieta';
@@ -39,29 +58,25 @@ import Gozdziki from './plants/Gozdziki';
 import Petunia from './plants/Petunia';
 import Aksamitka from './plants/Aksamitka';
 import Begonia from './plants/Begonia';
-import Morgana from './plants/Morgana';
 import Azalia from './plants/Azalia';
 import Barwinek from './plants/Barwinek';
-import Monstera_minima from './plants/Monstera_minima';
-import Geranium from './plants/Geranium';
-import Saintpaulia from './plants/Saintpaulia_ionantha';
-import Aloes from './plants/Aloes';
-import Chlorophytum from'./plants/chlorophytum';
-import Epipremnum from'./plants/Epipremnum';
-import Maranta from './plants/Maranta'
 import Parthenocissus from './plants/Parthenocissus';
-import Filodendron_pnacy from './plants/Philodendron_scandens';
-import Scindapsus_pictus from './plants/Scindapsus';
 
-import Cat from './Cat'
-import cat from './IMG/cat.png'
 
+
+import Szkodniki from './Szkodniki';
 import Ziemiorki from './insects/Ziemiorki';
 import Mszyce from './insects/Mszyce';
 import Welnowce from './insects/Welnowce';
 import Przedziorki from './insects/Przedziorki';
 
-import Scroll from './Scroll';
+
+import Cat from './Cat'
+import cat from './IMG/cat.png'
+
+
+
+
 
 
 
@@ -123,6 +138,13 @@ class App extends React.Component {
           <Epipremnum/>
           <Maranta/>
           <Scindapsus_pictus/>
+          <Alocatia/>
+          <Amarylis/>
+          <Calathea/>
+          <Chamedora/>
+          <Ficus_elastica/>
+          <Areka/>
+          <Stephanotis/>
 
           <Pomidor_koktajlowy />
           <Szczypiorek />

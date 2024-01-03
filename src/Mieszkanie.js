@@ -15,7 +15,7 @@ import ornamental_pepper from './IMG/ornamental_pepper.png'
 import Opuntia_subulata_Opuncja from './IMG/Opuntia_subulata_Opuncja.png'
 import Schlumbergera from './IMG/Schlumbergera.png'
 import cactus01 from './IMG/cactus01.png'
-import cactus02 from './IMG/cactus02.png'
+// import cactus02 from './IMG/cactus02.png'
 import Cactaceae_Eastern from './IMG/Cactaceae_Eastern.png'
 import wilczomlecz from './IMG/wilczomlecz.png'
 import fittonia from './IMG/fittonia.png'
@@ -39,7 +39,14 @@ import philodendron_scandens from './IMG/philodendron_scandens.png'
 import scindapsus_pictus from './IMG/scindapsus_pictus.png'
 
 
-
+// Jeszcze nie mam
+import alocatia from './IMG/alocatia.png'
+import amarylis from './IMG/amarylis.png'
+import calathea from './IMG/calathea.png'
+import chamedora from './IMG/chemadora.png'
+import ficus_elastica from './IMG/Ficus_elastica.png'
+import areka from './IMG/palma_areka.png'
+import stephanotis from './IMG/stephanotis.png'
 
 const Mieszkanie = () => {
     return (
@@ -58,7 +65,7 @@ const Mieszkanie = () => {
             <a href="#eve_needle"><img src={Opuntia_subulata_Opuncja} alt="Opuntia subulata Opuncja" /></a>
             <a href="#grudnik"><img src={Schlumbergera} alt="Grudnik" /></a>
             <a href="#echinokaktus"><img src={cactus01} alt="kaktus z suszkami" /></a>
-            <a href="#echinokaktus"><img src={cactus02} alt="kaktus z suszkami" /></a>
+            {/* <a href="#echinokaktus"><img src={cactus02} alt="kaktus z suszkami" /></a> */}
             <a href="#echinokaktus"><img src={Cactaceae_Eastern} alt="Echinokaktus Grusona" /></a>
             <a href="#wilczomlecz"><img src={wilczomlecz} alt="Wilczomlecz" /></a>
             <a href="#fittonia"><img src={fittonia} alt="Fittonia" /></a>
@@ -80,6 +87,13 @@ const Mieszkanie = () => {
             <a href="#epipremnum"><img src={epipremnum} alt="Epipremnum" /></a>
             <a href="#maranta"><img src={maranta} alt="Maranta" /></a>
             <a href="#scindapsus_pictus"><img src={scindapsus_pictus} alt="Scindapsus_pictus" /></a>
+            <a href="#alocatia"><img src={alocatia} alt="Alocatia" /></a>
+            <a href="#amarylis"><img src={amarylis} alt="Amarylis" /></a>
+            <a href="#calathea"><img src={calathea} alt="Calathea" /></a>
+            <a href="#ficus_elastica"><img src={ficus_elastica} alt="Ficus_elastica" /></a>
+            <a href="#chamedora"><img src={chamedora} alt="Chamedora" /></a>
+            <a href="#areka"><img src={areka} alt="Areka" /></a>
+            <a href="#stephanotis"><img src={stephanotis} alt="Stephanotis" /></a>
         </div>
         );
   };
