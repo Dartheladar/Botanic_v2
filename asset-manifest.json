@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Botanic_v2/static/css/main.b289eac2.css",
+    "main.css": "/Botanic_v2/static/css/main.69bb0c43.css",
     "main.js": "/Botanic_v2/static/js/main.b7d0b020.js",
     "static/js/787.b6fd2e4a.chunk.js": "/Botanic_v2/static/js/787.b6fd2e4a.chunk.js",
     "static/media/chives.png": "/Botanic_v2/static/media/chives.68a20ed7493c582c5580.png",
@@ -72,12 +72,12 @@
     "static/media/amarylis.png": "/Botanic_v2/static/media/amarylis.8908cfea054b1676b71c.png",
     "static/media/cat.png": "/Botanic_v2/static/media/cat.bcd752428a81963a8cce.png",
     "index.html": "/Botanic_v2/index.html",
-    "main.b289eac2.css.map": "/Botanic_v2/static/css/main.b289eac2.css.map",
+    "main.69bb0c43.css.map": "/Botanic_v2/static/css/main.69bb0c43.css.map",
     "main.b7d0b020.js.map": "/Botanic_v2/static/js/main.b7d0b020.js.map",
     "787.b6fd2e4a.chunk.js.map": "/Botanic_v2/static/js/787.b6fd2e4a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b289eac2.css",
+    "static/css/main.69bb0c43.css",
     "static/js/main.b7d0b020.js"
   ]
 }
