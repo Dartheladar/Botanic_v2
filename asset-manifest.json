@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Botanic_v2/static/css/main.69bb0c43.css",
-    "main.js": "/Botanic_v2/static/js/main.b7d0b020.js",
+    "main.css": "/Botanic_v2/static/css/main.b289eac2.css",
+    "main.js": "/Botanic_v2/static/js/main.5800e791.js",
     "static/js/787.b6fd2e4a.chunk.js": "/Botanic_v2/static/js/787.b6fd2e4a.chunk.js",
     "static/media/chives.png": "/Botanic_v2/static/media/chives.68a20ed7493c582c5580.png",
     "static/media/sage.png": "/Botanic_v2/static/media/sage.075d37bce7b6a0bece50.png",
@@ -34,11 +34,13 @@
     "static/media/fikus.png": "/Botanic_v2/static/media/fikus.e01994a849464c8a68ae.png",
     "static/media/begonia_knole.png": "/Botanic_v2/static/media/begonia_knole.035c70cdffe03f79687f.png",
     "static/media/AlphaFlowers.ttf": "/Botanic_v2/static/media/AlphaFlowers.531a7078a6543629bf87.ttf",
+    "static/media/hyacinthus.png": "/Botanic_v2/static/media/hyacinthus.80647765e4d2ab562aaf.png",
     "static/media/Pelargonium_graveolens.png": "/Botanic_v2/static/media/Pelargonium_graveolens.70ae4842f77e10b9ee1e.png",
     "static/media/TreeLike.ttf": "/Botanic_v2/static/media/TreeLike.ddfcaa69c0e6545e6486.ttf",
     "static/media/mszyce.png": "/Botanic_v2/static/media/mszyce.530d5befaff89f4dc54a.png",
     "static/media/monstera_minima.png": "/Botanic_v2/static/media/monstera_minima.8fc8093a81c787ede915.png",
     "static/media/narcyz.png": "/Botanic_v2/static/media/narcyz.c09111943f81b745d6ab.png",
+    "static/media/helleborus.png": "/Botanic_v2/static/media/helleborus.aa8fa0ce0dbd3c38e158.png",
     "static/media/ziemiorki.png": "/Botanic_v2/static/media/ziemiorki.ac5906d1cb1b33b6df64.png",
     "static/media/philodendron_scandens.png": "/Botanic_v2/static/media/philodendron_scandens.f21173fcdaed784b549e.png",
     "static/media/saintpaulia.png": "/Botanic_v2/static/media/saintpaulia.598936bea6dc02ef1fa2.png",
@@ -49,6 +51,7 @@
     "static/media/Guzmania lingulata.png": "/Botanic_v2/static/media/Guzmania lingulata.6f099ead9e54053acf6e.png",
     "static/media/chemadora.png": "/Botanic_v2/static/media/chemadora.d7e96c0cb0751cd22464.png",
     "static/media/barwinek.png": "/Botanic_v2/static/media/barwinek.790d1b3e9bef3524835e.png",
+    "static/media/ardisia.png": "/Botanic_v2/static/media/ardisia.a8ef9e8bd13bf86009b2.png",
     "static/media/morgana.png": "/Botanic_v2/static/media/morgana.c0a52ecb9f47c4704c70.png",
     "static/media/Flora.ttf": "/Botanic_v2/static/media/Flora.f8e379732f06dcee4b6f.ttf",
     "static/media/JFJunRoc.ttf": "/Botanic_v2/static/media/JFJunRoc.375d33eab769c0c77884.ttf",
@@ -72,12 +75,12 @@
     "static/media/amarylis.png": "/Botanic_v2/static/media/amarylis.8908cfea054b1676b71c.png",
     "static/media/cat.png": "/Botanic_v2/static/media/cat.bcd752428a81963a8cce.png",
     "index.html": "/Botanic_v2/index.html",
-    "main.69bb0c43.css.map": "/Botanic_v2/static/css/main.69bb0c43.css.map",
-    "main.b7d0b020.js.map": "/Botanic_v2/static/js/main.b7d0b020.js.map",
+    "main.b289eac2.css.map": "/Botanic_v2/static/css/main.b289eac2.css.map",
+    "main.5800e791.js.map": "/Botanic_v2/static/js/main.5800e791.js.map",
     "787.b6fd2e4a.chunk.js.map": "/Botanic_v2/static/js/787.b6fd2e4a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.69bb0c43.css",
-    "static/js/main.b7d0b020.js"
+    "static/css/main.b289eac2.css",
+    "static/js/main.5800e791.js"
   ]
 }
