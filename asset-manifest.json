@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Botanic_v2/static/css/main.b289eac2.css",
-    "main.js": "/Botanic_v2/static/js/main.5800e791.js",
+    "main.js": "/Botanic_v2/static/js/main.0cd41ceb.js",
     "static/js/787.b6fd2e4a.chunk.js": "/Botanic_v2/static/js/787.b6fd2e4a.chunk.js",
     "static/media/chives.png": "/Botanic_v2/static/media/chives.68a20ed7493c582c5580.png",
     "static/media/sage.png": "/Botanic_v2/static/media/sage.075d37bce7b6a0bece50.png",
@@ -76,11 +76,11 @@
     "static/media/cat.png": "/Botanic_v2/static/media/cat.bcd752428a81963a8cce.png",
     "index.html": "/Botanic_v2/index.html",
     "main.b289eac2.css.map": "/Botanic_v2/static/css/main.b289eac2.css.map",
-    "main.5800e791.js.map": "/Botanic_v2/static/js/main.5800e791.js.map",
+    "main.0cd41ceb.js.map": "/Botanic_v2/static/js/main.0cd41ceb.js.map",
     "787.b6fd2e4a.chunk.js.map": "/Botanic_v2/static/js/787.b6fd2e4a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b289eac2.css",
-    "static/js/main.5800e791.js"
+    "static/js/main.0cd41ceb.js"
   ]
 }
